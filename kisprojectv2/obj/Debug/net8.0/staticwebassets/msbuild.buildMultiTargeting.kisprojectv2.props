@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\kisprojectv2.props" />
+</Project>

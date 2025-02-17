@@ -1,0 +1,6 @@
+@kisprojectv2_HostAddress = http://localhost:5127
+
+GET {{kisprojectv2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
